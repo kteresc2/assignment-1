@@ -1,9 +1,26 @@
 html {
     color: fuchsia;
 }
+/*
+
+body { color: blue; 
+background-color: darkcyan; }
+
+*/
 
 h1 {
     color : green;
+    background-color: antiquewhite;
+    font-family: 'arial';
 }
 
-p { color : orange;}
+h2 { 
+    font-family: sans-serif;
+    font-weight: 600; }
+}
+
+p { color : orange;
+background-color: azure; }
+
+a { color: red; }
+
