@@ -24,14 +24,16 @@ h1 {
 }
 
 .link {
-    background-color: burlywood
+    background-color: green
 }
 h2 { 
     font-family: sans-serif;
     font-weight: 600; }
 }
 
-p { color : orange;
+p { 
+    color : #FF0000;
+    font-size: 30pt;
 background-color: azure; }
 
 a { color: red; }
