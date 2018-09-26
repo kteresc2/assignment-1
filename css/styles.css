@@ -1,6 +1,6 @@
-html {
-    color: fuchsia;
-}
+html 
+    
+
 /*
 
 body { color: blue; 
@@ -33,8 +33,13 @@ h2 {
 
 p { 
     color : #FF0000;
-    font-size: 30pt;
+    font-size: 33pt;
 background-color: azure; }
+
+#special-paragraph {
+    color:#0000ff;
+}
+
 
 a { color: red; }
 
